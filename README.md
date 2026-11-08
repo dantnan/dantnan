@@ -1,4 +1,4 @@
-# Hi, I'm Adnan 👋
+# Hi, I'm Antnan 👋
 
 WordPress engineer working with applied AI. I like turning small, everyday problems into tools people can use.
 
